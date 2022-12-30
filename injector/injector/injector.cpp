@@ -1,9 +1,7 @@
-#include <cstring>
-#include <stdio.h>
-#include <cstdlib>
 #include <windows.h>
 #include <tlhelp32.h>
-
+#include <cstring>
+#include <iostream>
 #include <WinBase.h>
 
 
